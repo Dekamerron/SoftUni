@@ -1,7 +1,6 @@
 SoftUni BlackJack console game. Team Project
 
-Follow the steps in this tutorial in order to sucessfully run the application:
-http://www.tech-recipes.com/rx/30018/how-to-compile-java-programs-through-windows-cmd/
+Follow these simple steps in order to sucessfully run the application:
 
 First things first, you need to download the JDK from Oracle to have the latest version of Java.
 
